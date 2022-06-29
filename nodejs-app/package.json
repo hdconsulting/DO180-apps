@@ -2,7 +2,7 @@
   "name": "nodejs-app",
   "version": "1.0.0",
   "description": "Hello World App",
-  "main": "server.js",
+  "main": "html-errors",
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
